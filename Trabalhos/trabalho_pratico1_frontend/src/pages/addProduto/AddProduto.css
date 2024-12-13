@@ -1,0 +1,41 @@
+.line{
+    display: flex;
+    flex-direction: column;
+    gap:3px;
+    width: 100%;
+}
+
+#myForm h3{
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+#myForm {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+#myForm label {
+    display: block;
+    margin-bottom: 5px;
+    font-size: 13px;
+}
+
+#myForm button{
+    margin-top: 20px;
+    width: 20%;
+    padding: 12px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: auto;
+    margin-right: auto;
+    display: block; 
+}
+
+.alert {
+    color: white;
+    background-color: rgb(175, 31, 31);
+    padding: 10px;
+    margin-bottom: 15px;
+}

@@ -1,0 +1,9 @@
+
+#actions{
+    display: flex;
+    flex-direction: row;
+    gap:5px;
+} 
+#title{
+    margin-top: 2%;
+}
