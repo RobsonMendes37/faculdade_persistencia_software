@@ -47,3 +47,18 @@
 2025-01-23 05:44:51,186 - INFO - Retornados 4 médicos com offset=0 e limit=100
 2025-01-23 05:44:55,343 - INFO - Retornados 4 médicos com offset=0 e limit=100
 2025-01-23 05:45:43,128 - INFO - Filtrados 4 médicos pelo nome 'string'
+2025-01-23 09:28:51,814 - INFO - Retornados 0 médicos com offset=0 e limit=100
+2025-01-23 09:29:05,204 - INFO - Retornados 0 pacientes com offset=0 e limit=100
+2025-01-23 09:29:25,086 - INFO - Retornados 0 pacientes com offset=0 e limit=100
+2025-01-23 09:29:41,221 - INFO - Paciente string criado com sucesso!
+2025-01-23 09:29:44,460 - INFO - Paciente string criado com sucesso!
+2025-01-23 09:29:44,710 - INFO - Paciente string criado com sucesso!
+2025-01-23 09:29:45,038 - INFO - Paciente string criado com sucesso!
+2025-01-23 09:29:45,283 - INFO - Paciente string criado com sucesso!
+2025-01-23 09:29:52,558 - INFO - Quantidade total de pacientes: 5
+2025-01-23 09:29:58,305 - INFO - Retornados 5 pacientes com offset=0 e limit=100
+2025-01-23 09:38:07,198 - INFO - Médico string criado com sucesso!
+2025-01-23 09:38:37,997 - INFO - Retornados 1 médicos no total
+2025-01-23 09:38:40,897 - INFO - Retornados 1 médicos no total
+2025-01-23 09:38:55,266 - INFO - Quantidade total de medicos: 1
+2025-01-23 09:39:41,807 - INFO - Médico canada criado com sucesso!
