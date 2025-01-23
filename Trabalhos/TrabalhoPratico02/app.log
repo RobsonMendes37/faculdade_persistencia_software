@@ -1,0 +1,49 @@
+2025-01-23 02:55:06,316 - INFO - Paciente string criado com sucesso!
+2025-01-23 02:55:22,347 - INFO - Retornados 1 pacientes com offset=0 e limit=100
+2025-01-23 02:55:29,740 - INFO - Retornados 1 pacientes no total
+2025-01-23 02:55:31,352 - INFO - Retornados 1 pacientes no total
+2025-01-23 02:56:09,238 - INFO - Paciente com ID 1 atualizado com sucesso!
+2025-01-23 02:56:11,370 - INFO - Paciente com ID 1 atualizado com sucesso!
+2025-01-23 02:57:03,038 - INFO - Retornados 5 heróis no total
+2025-01-23 02:57:16,516 - INFO - Herói com ID 1 deletado com sucesso!
+2025-01-23 02:57:19,794 - WARNING - Tentativa de deletar herói com ID 1, mas não encontrado
+2025-01-23 02:57:30,857 - INFO - Retornados 4 heróis com offset=0 e limit=100
+2025-01-23 03:09:27,234 - INFO - Quantidade total de heróis: 4
+2025-01-23 03:09:48,228 - INFO - Herói com ID 2 deletado com sucesso!
+2025-01-23 03:09:49,074 - WARNING - Tentativa de deletar herói com ID 2, mas não encontrado
+2025-01-23 03:16:55,229 - INFO - Quantidade total de pacientes: 1
+2025-01-23 03:21:00,291 - INFO - Médico string criado com sucesso!
+2025-01-23 03:21:06,597 - INFO - Retornados 1 médicos com offset=0 e limit=100
+2025-01-23 03:21:16,814 - INFO - Quantidade total de medicos: 1
+2025-01-23 03:21:21,909 - INFO - Retornados 1 médicos no total
+2025-01-23 03:21:31,284 - INFO - Médico com ID 1 encontrado
+2025-01-23 05:07:39,303 - INFO - Consulta criada com sucesso! Paciente: 0, Médico: 0
+2025-01-23 05:07:40,269 - INFO - Consulta criada com sucesso! Paciente: 0, Médico: 0
+2025-01-23 05:08:11,411 - INFO - Retornados 0 prescrições com offset=0 e limit=100
+2025-01-23 05:13:29,020 - INFO - Paciente string criado com sucesso!
+2025-01-23 05:13:44,685 - INFO - Médico string criado com sucesso!
+2025-01-23 05:13:47,943 - INFO - Médico string criado com sucesso!
+2025-01-23 05:13:48,521 - INFO - Médico string criado com sucesso!
+2025-01-23 05:15:51,145 - INFO - Retornados 2 consultas com offset=0 e limit=100
+2025-01-23 05:16:11,088 - INFO - Consulta criada com sucesso! Paciente: 2, Médico: 2
+2025-01-23 05:25:41,951 - INFO - Consulta criada com sucesso! Paciente: 0, Médico: 0
+2025-01-23 05:36:50,344 - INFO - Consulta criada com sucesso! Paciente: 1, Médico: 1
+2025-01-23 05:38:24,991 - INFO - Consulta criada com sucesso! Paciente: 2, Médico: 2
+2025-01-23 05:38:46,362 - INFO - Retornados 6 consultas com offset=0 e limit=100
+2025-01-23 05:40:42,952 - INFO - Quantidade total de consultas: 6
+2025-01-23 05:40:52,424 - INFO - Retornados 6 consultas no total
+2025-01-23 05:41:21,908 - INFO - Médico string criado com sucesso!
+2025-01-23 05:41:24,146 - INFO - Médico string criado com sucesso!
+2025-01-23 05:41:24,555 - INFO - Médico string criado com sucesso!
+2025-01-23 05:41:24,946 - INFO - Médico string criado com sucesso!
+2025-01-23 05:41:25,272 - INFO - Médico string criado com sucesso!
+2025-01-23 05:41:25,658 - INFO - Médico string criado com sucesso!
+2025-01-23 05:41:31,469 - INFO - Quantidade total de residentes: 6
+2025-01-23 05:41:40,127 - INFO - Médico com ID 6 deletado com sucesso!
+2025-01-23 05:42:09,683 - INFO - Retornados 5 médicos com offset=0 e limit=100
+2025-01-23 05:43:52,922 - INFO - Médico tee criado com sucesso!
+2025-01-23 05:43:55,124 - INFO - Médico tee criado com sucesso!
+2025-01-23 05:44:04,577 - INFO - Retornados 2 médicos com offset=0 e limit=100
+2025-01-23 05:44:51,186 - INFO - Retornados 4 médicos com offset=0 e limit=100
+2025-01-23 05:44:55,343 - INFO - Retornados 4 médicos com offset=0 e limit=100
+2025-01-23 05:45:43,128 - INFO - Filtrados 4 médicos pelo nome 'string'
